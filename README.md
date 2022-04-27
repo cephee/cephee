@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cephee&count_private=true&show_icons=true&theme=nightowl)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cephee)](https://github.com/jeremy379/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cephee&theme=cobalt)](https://github.com/cephee/github-readme-stats)
 
 
 ## 🧰 Languages and Tools:
