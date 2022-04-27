@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 
 ## 🧰 My Github stats: 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cephee&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cephee&layout=compact&langs_count=8&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cephee&layout=compact&langs_count=8&theme=cobalt)]
 
 
 ## 🧰 Languages and Tools:
