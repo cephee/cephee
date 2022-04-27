@@ -1,6 +1,6 @@
-### Joffrey Body - Fullstack Developer
+### Hi there 👋 I'm Joffrey Body 
 
-- 💻 PHP/Laravel/React 
+- 💻 Fullstack Developer | PHP/Laravel/React 
 
 - 🧱 AWS infrastructure
 
@@ -21,5 +21,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cephee&count_private=true&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cephee&langs_count=5&count_private=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+## 🧰 My Github stats: 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cephee&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cephee&layout=compact&langs_count=8&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## 🧰 Languages and Tools:
+<p align="center">
+    <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+    <img align="center" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+    <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+    <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+      <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+    <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+   
+  <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+</p>
